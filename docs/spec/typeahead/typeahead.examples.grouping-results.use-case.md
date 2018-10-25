@@ -1,4 +1,4 @@
-16.8: Typeahead Grouping results  example
+16.8: Typeahead Grouping results example
 ==============================================
 **Primary Actor**: User
 
@@ -18,7 +18,6 @@ Main success scenario:
 
 Extensions:
 -----------
-3a. If there is any data, it could be deleted. While deleting data the drop-down with matches is shown
 
 Variations:
 -----------

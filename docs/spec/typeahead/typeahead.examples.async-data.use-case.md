@@ -4,7 +4,7 @@
 
 **Scope**: Ngx-bootstrap DEMO / BS version 3&4
 
-**Goal**: Show user Async data functionality
+**Goal**: Show user how typeahead works with async data and how it loads results
 
 Main success scenario:
 -------------------------
@@ -18,7 +18,6 @@ Main success scenario:
 
 Extensions:
 -----------
-3a. If there is any data, it could be deleted. While deleting data the drop-down with matches is shown. No placeholder
 
 Variations:
 -----------

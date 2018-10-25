@@ -18,7 +18,6 @@ Main success scenario:
 
 Extensions:
 -----------
-3a. If there is any data, it could be deleted. While deleting data the drop-down with matches is shown
 4a. Typing a part of the template "This is:" or "Index" does not call the drop-down
 
 Variations:

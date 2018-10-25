@@ -4,12 +4,12 @@
 
 **Scope**: Ngx-bootstrap DEMO / BS version 3&4
 
-**Goal**: Show user Phrase delimiters functionality
+**Goal**: Show user functionality of using "&" and "," as decimeters  
 
 Main success scenario:
 ----------------------
 1. User open Typeahead demo page
-2. User click on Phrase delimiters sub-menu
+2. User clicks on Phrase delimiters sub-menu
 3. User sees typeahead input and typeahead card with "Model:" text
 4. User is able to use "&" and "," to delimit words
 5. When user starts to type a name of a State from "states" array and when uses "&" or "," to delimit words and there is no matches the drop-down is hidden. The "Model" is filled with inputted data
@@ -19,7 +19,6 @@ Main success scenario:
 
 Extensions:
 -----------
-3a. If there is any data, it could be deleted. While deleting data the drop-down with matches is shown
 
 Variations:
 -----------

@@ -4,7 +4,7 @@
 
 **Scope**: Ngx-bootstrap DEMO / BS version 3&4
 
-**Goal**: Show user Latinize functionality
+**Goal**: Show user a possibility to use Latinize letters
 
 Main success scenario:
 ----------------------
@@ -21,7 +21,6 @@ Main success scenario:
 
 Extensions:
 -----------
-3a. If there is any data, it could be deleted. While deleting data the drop-down with matches is shown
 
 Variations:
 -----------

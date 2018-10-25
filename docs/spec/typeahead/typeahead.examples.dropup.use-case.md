@@ -16,10 +16,8 @@ Main success scenario:
 6. Items in the drop-up are clickable
 7. When user clicks on any item in typeahead drop-down, then typeahead container auto-fills with a selected State
 
-
 Extensions:
 -----------
-3a. If there is any data, it could be deleted. While deleting data the drop-up with matches is shown
 
 Variations:
 -----------

@@ -4,7 +4,7 @@
 
 **Scope**: Ngx-bootstrap DEMO / BS version 3&4
 
-**Goal**: Show user Template-driven forms functionality
+**Goal**: Show user how typeahead can be used in template-driven forms
 
 Main success scenario:
 ----------------------
@@ -21,7 +21,6 @@ Main success scenario:
 
 Extensions:
 -----------
-3a. If there is any data, it could be deleted.
 
 Variations:
 -----------

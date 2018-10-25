@@ -9,9 +9,9 @@
 Main success scenario:
 ----------------------
 1. User open Typeahead demo page
-2. User click on With delay sub-menu
+2. User clicks on With delay sub-menu
 3. User sees typeahead input and typeahead card with "Model:" text
-4. When user starts to type a name of a State from "states" array Drop-dawn update delay depends on key `typeaheadWaitMs`, time delay = 1 sec, by default
+4. When user starts to type a name of a State from "states" array Drop-down update delay depends on key `typeaheadWaitMs`, time delay = 1 sec, by default
 5. If there are no matches the drop-down is hidden. The "Model" is filled with inputted data
 6. If there are any matches then a drop-down with a list of States matches is shown
 7. Items in the drop-down are clickable
@@ -19,7 +19,6 @@ Main success scenario:
 
 Extensions:
 -----------
-3a. If there is any data, it could be deleted. While deleting data the drop-down with matches is shown
 
 Variations:
 -----------
