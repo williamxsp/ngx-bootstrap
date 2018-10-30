@@ -56,7 +56,7 @@ export class ButtonRadioDirective implements ControlValueAccessor, OnInit {
   @HostBinding('class.active')
   @HostBinding('attr.aria-pressed')
   get isActive(): boolean {
-    return this.btnRadio === this.value;
+    return this.btnRadio === this.value || (this.btnRadio.id && this.btnRadio.id == this.value.id);
   }
 
   constructor(
